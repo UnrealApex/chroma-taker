@@ -1,1 +1,7 @@
-
+#file-drop-area {  
+    margin: auto;
+    background-color: #eaeaea;
+    padding: 4rem;
+    border: 2px dashed black;
+    width: 10rem;    
+}
